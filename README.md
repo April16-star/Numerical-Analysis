@@ -1,5 +1,5 @@
 # Numerical-Analysis
-This Git repository contains MATLAB code for a numerical analysis lab. It includes examples for solving systems of linear equations and other math problems using different methods. There's also a PDF guide that explains everything clearly.
+This Git repository contains MATLAB code for a numerical analysis lab. It includes examples for solving systems of linear equations and other math problems using different methods.
 
  <p align="center">
     <a href="https://img.shields.io/badge/Status-Work%20In%20Progress-red">
