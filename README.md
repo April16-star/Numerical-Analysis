@@ -25,10 +25,6 @@ This Git repository contains MATLAB code for a numerical analysis lab. It includ
 
 ## Contents
 ## 1.Differentiation and limits
-  1.Bisection Method\
-  2.Regula Falsi Method\
-  3.Iteration Method\
-  4.Newton-Rhapson Method
   
 ## 2.Laplace and fourier
     
